@@ -131,6 +131,29 @@ Read weather data from a CSV file and provide analysis like average temperature,
 
 ---
 
+### Project 6.5: Unity Development Transition
+**Difficulty:** Intermediate
+**Duration:** 1-2 weeks
+**Learning Objectives:**
+- Transition from console/web to game development
+- Unity-specific C# patterns and concepts
+- Game development mindset and architecture
+- Real-time programming concepts
+
+**Project Description:**
+Bridge project that prepares you for Unity game development. Learn Unity fundamentals, MonoBehaviour lifecycle, component-based design, and create your first Unity project.
+
+**Skills Gained:**
+- Unity Editor basics
+- MonoBehaviour scripting
+- GameObject and Component system
+- Real-time input handling
+- Game development concepts
+
+**Note:** This is an optional transition point. You can continue with web development (Projects 7-12) or switch to Unity game development after this project.
+
+---
+
 ## Phase 3: Web Development Basics (Weeks 5-6)
 *Goal: Introduction to web development with ASP.NET Core*
 
